@@ -6,8 +6,8 @@
 # Computer Networking Basics Workshop 
 
 **Date:** Monday, February 27th, 2023 <br>
-**Description**: In this workshop you will learn about what Git and Github are, why these tools are used, and why they are so important to know and get familiar with. We’ll also be doing a demo where you can follow along. Such topics that we will go over are making commits, making branches, making pull requests and much more. Please also make sure you download Visual Studio Code and make a Github account prior to the workshop. <br>
-**Room**: Haaren Hall 200 <br>
+**Description**: In this workshop you will get an intro of how computers exchange and share data with each other. We will go over different computer network types, terms, concepts, architecture, security and examples. <br>
+**Room**: Haaren Hall 202 <br>
 **Workshop Zoom Recording**: [TBD]() <br>
 **Workshop Google Slides**: [click here](https://docs.google.com/presentation/d/1TsNbigysvN530D9qdlE2LCAWSkbSDqVXeSEeMB5jjsg/edit?usp=sharing) <br>
 
