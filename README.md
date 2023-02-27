@@ -8,7 +8,7 @@
 **Date:** Monday, February 27th, 2023 <br>
 **Description**: In this workshop you will get an intro of how computers exchange and share data with each other. We will go over different computer network types, terms, concepts, architecture, security and examples. <br>
 **Room**: Haaren Hall 202 <br>
-**Workshop Zoom Recording**: [TBD]() <br>
+**Workshop Zoom Recording**: [TBD](https://jjay-cuny.zoom.us/rec/share/FRsRRjjhd8Okttm4KP90DhcBVwkd6q8cBU29Eyw9OMTUVbp8J93ssPLvt1UAC2lV.VlUBdxsECXcYwsQm ) <br>
 **Workshop Google Slides**: [click here](https://docs.google.com/presentation/d/1TsNbigysvN530D9qdlE2LCAWSkbSDqVXeSEeMB5jjsg/edit?usp=sharing) <br>
 
 ---
